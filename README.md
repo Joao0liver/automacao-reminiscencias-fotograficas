@@ -277,6 +277,7 @@ De maneira simplificada, o fluxo é:
 - 💾 Os arquivos baixados são armazenados localmente.
 - 🔧 O projeto depende da estrutura HTML da página de origem. Alterações nos elementos ou identificadores utilizados pelo site podem exigir alterações nos seletores dos scripts.
 - 📜 A execução deve respeitar os termos de uso e as condições de acesso do site de origem.
+- 🚨 **O código apresenta uma retenção de 98,87% - realizando o download de 526 fotos de 532 no total.**
 
 ---
 
